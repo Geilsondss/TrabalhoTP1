@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-class Horario{
+class Horario{ //Geilson dos Santos - 231006239
 private:
     string horario;
     bool validarHorario(string horario);

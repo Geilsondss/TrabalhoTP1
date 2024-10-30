@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-class Avaliacao{
+class Avaliacao{ //Geilson dos Santos - 231006239
 private:
     string avaliacao;
 
